@@ -2,34 +2,14 @@
 > ***Please carefully read the [Disclaimer of Liability](#disclaimer-of-liability) below first.***  
 > All materials in this archive are for reference only. The actual one may vary.
 
-# PolyU COMP Archive
-This archive is used to store and share my ug subject materials in PolyU COMP.
+# PolyU_COMP3121
+COMP3121 Social and Collaborative Computing - The Hong Kong Polytechnic University  
+Content:
+- [[Website] Social and Collaborative Computing Course Note](https://ultrafish.io/post/social-and-collaborative-computing-course-note/)
+- [Assignment](./Assignment)
+- [Midterm](./Midterm)
 
-## Subjects
-- [COMP1002 Computational Thinking and Problem Solving](./COMP1002/)
-- [COMP1411 Introduction to Computer Systems](./COMP1411/)
-- [COMP1433 Introduction to Data Analytics](./COMP1433/)
-- [COMP2021 Object-Oriented Programming](./COMP2021/)
-- [COMP2322 Computer Networking](./COMP2322/)
-- [COMP2411 Database Systems](./COMP2411/)
-- [COMP2432 Operating Systems](./COMP2432/)
-- [COMP3121 Social and Collaborative Computing](./COMP3121/)
-- [COMP3211 Software Engineering](./COMP3211/)
-- [COMP3334 Computer Systems Security](./COMP3334)
-- [COMP3422 Creative Digital Media Design](./COMP3422)
-- [COMP3438 System Programming](./COMP3438/)
-- [COMP4423 Computer Vision](./COMP4423/)
-- [COMP4432 Machine Learning](./COMP4432)
-- [COMP4433 Data Mining and Data Warehousing](./COMP4433/)
-- [COMP4434 Big Data Analytics](./COMP4434/)
-
----
-
-## Copyright
-belongs to
-- [ZHANG Wengyu](https://github.com/zhangwengyu999)
-- [The Hong Kong Polytechnic University](https://www.polyu.edu.hk)
-- Group mates in Group Projects
+2024-25 Semester 2
 
 ---
 
